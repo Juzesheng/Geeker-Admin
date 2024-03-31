@@ -20,8 +20,7 @@ const globalStore = useGlobalStore();
 // init theme
 const { initTheme } = useTheme();
 initTheme();
-const test;
-test;
+
 // init language
 const i18n = useI18n();
 onMounted(() => {
